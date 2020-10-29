@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Navigate Cinema</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Drammatik</string>
+    <string name="nav_header_subtitle">ivan.kravchenko1@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_about">About</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="titanic_title">Титаник</string>
+    <string name="once_upon_a_time_title">Однажды в Голливуде</string>
+    <string name="pulp_fiction_title">Криминальное чтиво</string>
+
+    <string name="titanic_description">Молодые влюбленные Джек и Роза находят друг друга в первом и
+        последнем плавании «непотопляемого» Титаника. Они не могли знать, что шикарный лайнер
+        столкнется с айсбергом в холодных водах Северной Атлантики, и их страстная любовь
+        превратится в схватку со смертью…</string>
+
+    <string name="once_upon_a_time_description">Фильм повествует о череде событий, произошедших в
+        Голливуде в 1969 году, на закате его «золотого века». По сюжету, известный ТВ актер
+        Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире
+        киноиндустрии.</string>
+
+    <string name="pulp__fiction_description">Двое бандитов Винсент Вега и Джулс Винфилд проводят
+        время в философских беседах в перерыве между разборками и «решением проблем» с должниками
+        своего криминального босса Марселласа Уоллеса. Параллельно разворачивается три
+        истории.</string>
+
+    <string name="no_text">No value</string>
+
+    <string name="share_menu_option">Поделиться</string>
+    <string name="share_with">Поделиться с другом</string>
+    <string name="share_text">Крутое приложение для фильмов!</string>
+
+    <string name="detail_button_text">Детали</string>
+    <string name="like_checkbox_text">Мне нравится</string>
+    <string name="comment_hint">Комментарий</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
